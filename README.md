@@ -6,7 +6,7 @@
 🚀 Building projects to improve my development skill
 
 # About Me
-I'm a Computer Science student who enjoys building practical applications and learning how software works behind the scenes. My current focus is backend development with Python and Flask, while expanding my knowledge of databases, APIs, and modern web development.
+I'm a Computer Science student who enjoys building practical applications and learning how software works behind the scenes. My current focus is backend development with Python and FastAPI, while expanding my knowledge of databases, APIs, and modern web development such as React and NextJS.
 
 ## 🛠 Tech Stack
 
