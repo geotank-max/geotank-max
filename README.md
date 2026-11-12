@@ -5,7 +5,7 @@
 ### 💻 Full-Stack Developer | 🎓 University Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1d4162&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+whoami%3A+Backend+%26+Full-Stack+Developer;%3E+stack%3A+FastAPI+%7C+Next.js+%7C+Flutter+%7C+Docker;%3E+focus%3A+Clean+Architecture+%26+Database+Design" alt="Terminal Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=650&lines=%3E+whoami%3A+Backend+%26+Full-Stack+Developer;%3E+stack%3A+FastAPI+%7C+Next.js+%7C+Flutter+%7C+Docker;%3E+focus%3A+Clean+Architecture+%26+Database+Design" alt="Terminal Typing SVG" />
 </p>
 
 </div>
