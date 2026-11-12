@@ -4,7 +4,11 @@
 
 ### 💻 Full-Stack Developer | 🎓 University Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full-Stack+Web+Developer;React+%7C+Vue+%7C+Node.js+%7C+Laravel;Always+Learning+New+Technologies" alt="Typing SVG" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Backend+%26+Full-Stack+Software+Engineer;Python+%7C+FastAPI+%7C+Next.js+%7C+Flutter;PostgreSQL+%7C+Docker+%7C+System+Architecture;Building+Scalable+APIs+%26+Web+Apps" alt="Typing SVG" />
+  </a>
+</p>
 
 </div>
 
